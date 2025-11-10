@@ -1,10 +1,10 @@
-# No NowPlaying
+# Yes WebNowPlaying
 
 Converts any skin using SpotifyPlugin or NowPlaying to use WebNowPlaying
 
 # Usage
 
-Install the latest .rmskin from [releases](https://github.com/reisir/nonp/releases).
+Install the latest .rmskin from [releases](https://github.com/Zappingsbrew/yeswnp/releases).
 
 Load the skin (should load automatically on install).
 
@@ -28,3 +28,5 @@ Thanks to
 
 - [@modkavartini](https://github.com/modkavartini) for the skin targeting system and UI
 - [@Nallantli](https://github.com/Nallantli) for the voice acting
+
+Original [No NowPlaying](https://github.com/reisir/nonp) by [@reisir](httpa://github.com/reisir)
